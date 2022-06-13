@@ -1,0 +1,1 @@
+for(var i = 0; i < document.getElementById("songlist").getElementsByTagName("a").length; i++ ){console.log(document.getElementById("songlist").getElementsByTagName("a")[i].href)}
